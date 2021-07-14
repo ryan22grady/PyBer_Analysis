@@ -5,13 +5,18 @@ V.Isualize has instructed Omar and me to create a summary DataFrame of the ride-
 
 ## Results
 There is a description of the differences in ride-sharing data among the different city types. 
+The dataframe and multiple-line graph show corroborating information as it relates to ride-sharing data and city types. There tends to many more riders in urban areas than in suburban and rural. Similarly, there is also a greater number of drivers in urban areas when compared suburban and rural cities. It can be inferred that with significantly more drivers than rides in urban areas that the supply-demand concept allows for cheaper fares for riders. Rural riders, with so few comparable drivers, are punished with higher prices, while rural drivers are rewarded with higher fares. The multiple-line graph shows that these mentioned prices stay relatively consistent throughout the year, with all three even having a similar spike in the month of February. 
 
 PyBer_data_analysis.png<img width="600" alt="PyBer_data_analysis" src="https://user-images.githubusercontent.com/84995704/125670474-8dff41c0-fc1e-4b70-9b4a-35a4bcec0733.png">
 
 PyBer_fare_summary.png![PyBer_fare_summary](https://user-images.githubusercontent.com/84995704/125669964-0b014dc7-7c62-4cba-8bb8-3ce56f35db60.png)
 
 ## Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+I have three recommendations to address to address disparities among the city types.
+
+1. Include poplulation size of cities to the team can get a deeper look at the nuances within city types. This could provide targeted areas of improvement within the each city type. 
+2. Collect and include data on the length of each ride. Perhaps, rural drivers are traveling further distances because by the very nature of rural the destination is further from the point of origin. The our analysis on the aforementioned relationships could be skewed becuase of this lack in data. 
+3. Figure out ways to incentivize more people in suburban and rural to become Pyber drivers in an attempt to lower fares for the respective riders. 
 
 
 
