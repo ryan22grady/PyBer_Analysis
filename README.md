@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Project Overview
 V.Isualize has instructed Omar and me to create a summary DataFrame of the ride-sharing data by city type to get a better understanding of the disparities by city type: urban, suburban, rural. We were instructed to create a muiltiple-line graph and to write a report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer. 
